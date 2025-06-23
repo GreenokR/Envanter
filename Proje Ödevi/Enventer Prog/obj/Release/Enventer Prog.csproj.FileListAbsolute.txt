@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\Proje Ödevi\Enventer Prog\bin\Release\Enventer Prog.exe
+C:\Users\PC\Desktop\Proje Ödevi\Enventer Prog\bin\Release\Enventer Prog.pdb
+C:\Users\PC\Desktop\Proje Ödevi\Enventer Prog\obj\Release\Enventer_Prog.Form1.resources
+C:\Users\PC\Desktop\Proje Ödevi\Enventer Prog\obj\Release\Enventer_Prog.Form2.resources
+C:\Users\PC\Desktop\Proje Ödevi\Enventer Prog\obj\Release\Enventer_Prog.Properties.Resources.resources
+C:\Users\PC\Desktop\Proje Ödevi\Enventer Prog\obj\Release\Enventer Prog.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Proje Ödevi\Enventer Prog\obj\Release\Enventer Prog.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Proje Ödevi\Enventer Prog\obj\Release\Enventer Prog.exe
+C:\Users\PC\Desktop\Proje Ödevi\Enventer Prog\obj\Release\Enventer Prog.pdb
+C:\Users\PC\Desktop\Proje Ödevi\Enventer Prog\obj\Release\Enventer Prog.csproj.AssemblyReference.cache
